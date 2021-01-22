@@ -1,2 +1,2 @@
 # MonkeysPHP
- Monkey Survey poject: questionnaire and answering them
+ PHP survey project with a questionnaire to answer
